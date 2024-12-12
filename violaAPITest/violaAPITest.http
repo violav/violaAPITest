@@ -1,0 +1,6 @@
+@violaAPITest_HostAddress = http://localhost:5137
+
+GET {{violaAPITest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

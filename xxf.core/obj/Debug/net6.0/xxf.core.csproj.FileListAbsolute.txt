@@ -1,0 +1,160 @@
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\bin\Debug\net6.0\xxf.core.deps.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\bin\Debug\net6.0\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\bin\Debug\net6.0\xxf.core.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\xxf.core.csproj.AssemblyReference.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\xxf.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfoInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfo.cs
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\xxf.core.csproj.CoreCompileInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.xxf.core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.build.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\scopedcss\bundle\xxf.core.styles.css
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\refint\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\xxf.core.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.core\obj\Debug\net6.0\ref\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\bin\Debug\net6.0\xxf.core.deps.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\bin\Debug\net6.0\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\bin\Debug\net6.0\xxf.core.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\xxf.core.csproj.AssemblyReference.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\xxf.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfoInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfo.cs
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\xxf.core.csproj.CoreCompileInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.xxf.core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.build.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\scopedcss\bundle\xxf.core.styles.css
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\refint\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\xxf.core.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.core\obj\Debug\net6.0\ref\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\bin\Debug\net6.0\xxf.core.deps.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\bin\Debug\net6.0\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\bin\Debug\net6.0\xxf.core.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\xxf.core.csproj.AssemblyReference.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\xxf.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfoInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfo.cs
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\xxf.core.csproj.CoreCompileInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.xxf.core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.build.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\scopedcss\bundle\xxf.core.styles.css
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\refint\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\xxf.core.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.core\obj\Debug\net6.0\ref\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\bin\Debug\net6.0\xxf.core.deps.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\bin\Debug\net6.0\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\bin\Debug\net6.0\xxf.core.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\xxf.core.csproj.AssemblyReference.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\xxf.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfoInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfo.cs
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\xxf.core.csproj.CoreCompileInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.xxf.core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.build.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\scopedcss\bundle\xxf.core.styles.css
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\refint\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\xxf.core.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.core\obj\Debug\net6.0\ref\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\bin\Debug\net6.0\xxf.core.deps.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\bin\Debug\net6.0\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\bin\Debug\net6.0\xxf.core.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.csproj.AssemblyReference.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfoInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfo.cs
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.csproj.CoreCompileInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.xxf.core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.build.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.xxf.core.props
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\scopedcss\bundle\xxf.core.styles.css
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\refint\xxf.core.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\ref\xxf.core.dll
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\bin\Debug\net6.0\xxf.core.deps.json
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\bin\Debug\net6.0\xxf.core.dll
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\bin\Debug\net6.0\xxf.core.pdb
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.csproj.AssemblyReference.cache
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfoInputs.cache
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfo.cs
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.csproj.CoreCompileInputs.cache
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.xxf.core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.build.xxf.core.props
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.xxf.core.props
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.xxf.core.props
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\scopedcss\bundle\xxf.core.styles.css
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.dll
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\refint\xxf.core.dll
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.pdb
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\ref\xxf.core.dll
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\bin\Debug\net6.0\xxf.core.deps.json
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\bin\Debug\net6.0\xxf.core.dll
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\bin\Debug\net6.0\xxf.core.pdb
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.csproj.AssemblyReference.cache
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfoInputs.cache
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfo.cs
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.csproj.CoreCompileInputs.cache
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.xxf.core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.build.xxf.core.props
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.xxf.core.props
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.xxf.core.props
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\scopedcss\bundle\xxf.core.styles.css
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.dll
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\refint\xxf.core.dll
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\xxf.core.pdb
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.core\obj\Debug\net6.0\ref\xxf.core.dll
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\xxf.core.csproj.AssemblyReference.cache
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\xxf.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfoInputs.cache
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\xxf.core.AssemblyInfo.cs
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\xxf.core.csproj.CoreCompileInputs.cache
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\xxf.core.dll
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\refint\xxf.core.dll
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\xxf.core.pdb
+C:\Users\viola\source\repos\violaAPITest\xxf.core\bin\Debug\net6.0\xxf.core.deps.json
+C:\Users\viola\source\repos\violaAPITest\xxf.core\bin\Debug\net6.0\xxf.core.dll
+C:\Users\viola\source\repos\violaAPITest\xxf.core\bin\Debug\net6.0\xxf.core.pdb
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.xxf.core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.build.xxf.core.props
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.xxf.core.props
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.xxf.core.props
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\scopedcss\bundle\xxf.core.styles.css
+C:\Users\viola\source\repos\violaAPITest\xxf.core\obj\Debug\net6.0\ref\xxf.core.dll

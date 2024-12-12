@@ -1,0 +1,112 @@
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.deps.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.AssemblyReference.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\obj\Debug\net6.0\Xxf.Service.Exception.Resources.Messages.resources
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.GenerateResource.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfoInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfo.cs
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.CoreCompileInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\obj\Debug\net6.0\refint\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official\xxf.service.exception\obj\Debug\net6.0\ref\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.deps.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.AssemblyReference.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\obj\Debug\net6.0\Xxf.Service.Exception.Resources.Messages.resources
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.GenerateResource.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfoInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfo.cs
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.CoreCompileInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\obj\Debug\net6.0\refint\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone - Copia\xxf.service.exception\obj\Debug\net6.0\ref\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.deps.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.AssemblyReference.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\obj\Debug\net6.0\Xxf.Service.Exception.Resources.Messages.resources
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.GenerateResource.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfoInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfo.cs
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.CoreCompileInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\obj\Debug\net6.0\refint\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_BRUTTACOPIA\xxf.service.exception\obj\Debug\net6.0\ref\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.deps.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.AssemblyReference.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\obj\Debug\net6.0\Xxf.Service.Exception.Resources.Messages.resources
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.GenerateResource.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfoInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfo.cs
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.CoreCompileInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\obj\Debug\net6.0\refint\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone_ORDERS\xxf.service.exception\obj\Debug\net6.0\ref\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.deps.json
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.AssemblyReference.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\Xxf.Service.Exception.Resources.Messages.resources
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.GenerateResource.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfoInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfo.cs
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.CoreCompileInputs.cache
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\refint\xxf.service.exception.dll
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\v.viventi\source\repos\RT\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\ref\xxf.service.exception.dll
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.deps.json
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.dll
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.AssemblyReference.cache
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\Xxf.Service.Exception.Resources.Messages.resources
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.GenerateResource.cache
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfoInputs.cache
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfo.cs
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.CoreCompileInputs.cache
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.dll
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\refint\xxf.service.exception.dll
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\viola\source\repos\xxf-platform-official-clone\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\ref\xxf.service.exception.dll
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.deps.json
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.dll
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.AssemblyReference.cache
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\Xxf.Service.Exception.Resources.Messages.resources
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.GenerateResource.cache
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfoInputs.cache
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfo.cs
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.CoreCompileInputs.cache
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.dll
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\refint\xxf.service.exception.dll
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\viola\source\repos\Violaxxf\xxf-platform-official-clone\xxf.service.exception\obj\Debug\net6.0\ref\xxf.service.exception.dll
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.deps.json
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.dll
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\bin\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.AssemblyReference.cache
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\obj\Debug\net6.0\Xxf.Service.Exception.Resources.Messages.resources
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.GenerateResource.cache
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfoInputs.cache
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.AssemblyInfo.cs
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.csproj.CoreCompileInputs.cache
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.dll
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\obj\Debug\net6.0\refint\xxf.service.exception.dll
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\obj\Debug\net6.0\xxf.service.exception.pdb
+C:\Users\viola\source\repos\violaAPITest\xxf.service.exception\obj\Debug\net6.0\ref\xxf.service.exception.dll
